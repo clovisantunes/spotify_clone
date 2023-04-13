@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    width:100vw;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #1db954;
+    gap:5rem;
+}
+img{
+    height: 20vh;
+}
+button{
+    padding: 1rem 5rem;
+    border-radius: 5rem;
+    border: none;
+    background-color: black;
+    color: #49f5e5;
+    font-size: 1.5rem;
+    cursor:pointer
+}
